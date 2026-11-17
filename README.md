@@ -24,7 +24,7 @@ Aplicativo desenvolvido com **FlutterFlow e Xano**, incluindo:
 - Cadastro e autenticação de usuários.
 - Verificação por código enviado por e-mail.
 - Cardápio e carrinho de compras.
-- Gerenciamento de endereços.
+- Gerenciamento de endereco
 - Integração de APIs e banco de dados.
 - Fluxo de pagamentos com Asaas (em desenvolvimento).
 
