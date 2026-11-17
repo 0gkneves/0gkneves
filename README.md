@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gustavo Neves!
 
-<!--
-**0gkneves/0gkneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Futuro Desenvolvedor de Software | 🎓 Sistemas de Informação
 
-Here are some ideas to get you started:
+Sou estudante de **Bacharelado em Sistemas de Informação na Faculdade Impacta**, com previsão de conclusão em 2030.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência profissional com sistemas ERP, análise de dados e operações de e-commerce. Atualmente, estou ampliando meus conhecimentos em desenvolvimento de aplicações, APIs e bancos de dados.
+
+## 🚀 Tecnologias e ferramentas
+
+- 📱 **FlutterFlow** — Desenvolvimento de interfaces e aplicações.
+- 🗄️ **Xano** — Backend, APIs e banco de dados.
+- 🔗 **APIs REST** — Integração entre sistemas.
+- ⚙️ **n8n** — Estudos e experimentações com automações.
+- 📊 **Microsoft Excel** — Organização e análise de dados.
+- 🛒 **ERP Bling** — Gestão de produtos e operações de marketplace.
+
+## 📁 Projetos Acadêmicos
+
+### 🍽️ Sabor Local — Aplicativo de Delivery
+
+Aplicativo desenvolvido com **FlutterFlow e Xano**, incluindo:
+
+- Cadastro e autenticação de usuários.
+- Verificação por código enviado por e-mail.
+- Cardápio e carrinho de compras.
+- Gerenciamento de endereços.
+- Integração de APIs e banco de dados.
+- Fluxo de pagamentos com Asaas (em desenvolvimento).
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **estágio em Desenvolvimento de Software**, para aplicar meus conhecimentos, desenvolver habilidades em programação e contribuir com projetos de tecnologia.
+
+## 📫 Contato
+
+📧 E-mail: gusta.nt2108@gmail.com
