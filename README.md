@@ -15,19 +15,6 @@ Tenho experiência profissional com sistemas ERP, análise de dados e operaçõe
 - 📊 **Microsoft Excel** — Organização e análise de dados.
 - 🛒 **ERP Bling** — Gestão de produtos e operações de marketplace.
 
-## 📁 Projetos Acadêmicos
-
-### 🍽️ Sabor Local — Aplicativo de Delivery
-
-Aplicativo desenvolvido com **FlutterFlow e Xano**, incluindo:
-
-- Cadastro e autenticação de usuários.
-- Verificação por código enviado por e-mail.
-- Cardápio e carrinho de compras.
-- Gerenciamento de endereco
-- Integração de APIs e banco de dados.
-- Fluxo de pagamentos com Asaas (em desenvolvimento).
-
 ## 🎯 Objetivo profissional
 
 Busco uma oportunidade de **estágio em Desenvolvimento de Software**, para aplicar meus conhecimentos, desenvolver habilidades em programação e contribuir com projetos de tecnologia.
